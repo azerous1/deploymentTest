@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/azerous1/deploymentTest.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/azerous1/deploymentTest.git/static/js/main.9544dc5d.chunk.js",
+    "main.js.map": "/azerous1/deploymentTest.git/static/js/main.9544dc5d.chunk.js.map",
+    "runtime-main.js": "/azerous1/deploymentTest.git/static/js/runtime-main.fddba67b.js",
+    "runtime-main.js.map": "/azerous1/deploymentTest.git/static/js/runtime-main.fddba67b.js.map",
+    "static/js/2.192f81c6.chunk.js": "/azerous1/deploymentTest.git/static/js/2.192f81c6.chunk.js",
+    "static/js/2.192f81c6.chunk.js.map": "/azerous1/deploymentTest.git/static/js/2.192f81c6.chunk.js.map",
+    "static/js/3.34333461.chunk.js": "/azerous1/deploymentTest.git/static/js/3.34333461.chunk.js",
+    "static/js/3.34333461.chunk.js.map": "/azerous1/deploymentTest.git/static/js/3.34333461.chunk.js.map",
+    "index.html": "/azerous1/deploymentTest.git/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/azerous1/deploymentTest.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.192f81c6.chunk.js.LICENSE.txt": "/azerous1/deploymentTest.git/static/js/2.192f81c6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/azerous1/deploymentTest.git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fddba67b.js",
+    "static/js/2.192f81c6.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.9544dc5d.chunk.js"
+  ]
+}
